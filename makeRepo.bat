@@ -2,7 +2,7 @@
 
 set fn=%1
 set dir=%2
-set var="F:\Documents\Programming Projects%dir%/%fn%"
+set var="%mp%%dir%/%fn%"
 cd /d %~dp0
 
 If "%1"=="" (
