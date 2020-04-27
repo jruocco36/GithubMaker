@@ -1,4 +1,7 @@
-### pre-setup:
+Adapted from:
+https://github.com/KalleHallden/ProjectInitializationAutomation
+
+### Pre-setup:
 ```
 Create OS environment variables:
 > Desired project base directory as - "mp"
@@ -6,7 +9,7 @@ Create OS environment variables:
   - create new personal access token: https://github.com/settings/tokens
 ```
 
-### setup: 
+### Setup: 
 ```bash
 git clone "https://github.com/jruocco36/GithubMaker.git"
 cd GithubMaker
